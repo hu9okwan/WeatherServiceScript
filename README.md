@@ -1,1 +1,4 @@
-# acit2420_lab6
+# A Simple Weather Service
+
+## How to Install
+1. 
