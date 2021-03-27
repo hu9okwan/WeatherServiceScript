@@ -2,7 +2,7 @@
 Description=Run weather service hourly
 
 [Timer]
-OnCalendar=*-*-* *:*:0/10
+OnCalendar=hourly
 Persistent=true
 
 [Install]
