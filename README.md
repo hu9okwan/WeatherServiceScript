@@ -13,4 +13,5 @@ Execute the following steps in your Linux terminal:
 5. Enter `sudo systemctl daemon-reload` to reload the systemd manager configuration
 6. Enter `sudo systemctl enable --now wthr.service` and `sudo systemctl enable --now wthr.timer` to start it immediately and enable this service at boot
 
-Enter `cat weather.txt` while in the directory where wthr is located to display weather information
+## Viewing the Weather Report
+Enter `cat weather.txt` while in the directory where wthr is located
