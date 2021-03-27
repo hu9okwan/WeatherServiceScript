@@ -7,6 +7,6 @@ Execute the following steps in your Linux terminal:
 3. Configure the wthr.service file to point to the appropriate absolute paths:
    - Enter `vim wthr.service`
    - Change `ExecStart=/home/vagrant/week11/wthr` to the absolute path of the wthr file
-   - Change `WorkingDirectory=/home/vagrant/week11` to the directory where wthr is located
+   - Change `WorkingDirectory=/home/vagrant/week11` to the absolute path of the directory where wthr is located
 4. Enter `mv wthr.* /etc/systemd/system`
 
