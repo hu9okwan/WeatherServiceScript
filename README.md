@@ -4,7 +4,7 @@
 Execute the following steps in your Linux terminal:
 1. Enter `git clone https://github.com/hu9okwan/acit2420_lab6.git` to clone this repository
 2. Enter `cd acit2420_lab6` to go into the newly created directory
-3. Configure the wthr.service file to point to the appropriate absolute paths:
+3. Configure the wthr.service file to point to the appropriate paths:
    - Enter `vim wthr.service` to edit the file
    - Change `ExecStart=/home/vagrant/week11/wthr` to the absolute path of the wthr file
    - Change `WorkingDirectory=/home/vagrant/week11` to the absolute path of the directory where wthr is located
