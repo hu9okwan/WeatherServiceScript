@@ -11,6 +11,6 @@ Execute the following steps in your Linux terminal:
    - Change `WorkingDirectory=/home/vagrant/week11` to the absolute path of the directory where wthr is located
 4. Enter `sudo mv wthr.* /etc/systemd/system` to move wthr.service and wthr.timer files
 5. Enter `sudo systemctl daemon-reload` to reload the systemd manager configuration
-6. Enter `sudo systemctl enable --now wthr.service` and `sudo systemctl enable --now wthr.timer` to enable this service at boot and start it immediately
+6. Enter `sudo systemctl enable --now wthr.service` and `sudo systemctl enable --now wthr.timer` to start it immediately and enable this service at boot
 
 Enter `cat weather.txt` while in the directory where wthr is located to display weather information
