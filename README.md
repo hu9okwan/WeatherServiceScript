@@ -1,4 +1,5 @@
 # A Simple Weather Service
+This service will generate a weather.txt file to the appointed script directory every hour
 
 ## How to Install
 Execute the following steps in your Linux terminal:
