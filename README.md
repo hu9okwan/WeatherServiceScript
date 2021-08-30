@@ -1,5 +1,5 @@
 # A Simple Weather Service
-This service will generate a weather report to a weather.txt file in the appointed script directory every hour
+This service will generate a weather report from wttr.in to a weather.txt file in the appointed script directory every hour.
 
 ## How to Install
 Execute the following steps in your Linux terminal:
