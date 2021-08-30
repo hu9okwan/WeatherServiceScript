@@ -1,4 +1,4 @@
-# A Simple Weather Service
+# A Simple Weather Service 🌞☔🌡
 This service will generate a weather report from wttr.in to a weather.txt file in the appointed script directory every hour.
 
 ## How to Install
